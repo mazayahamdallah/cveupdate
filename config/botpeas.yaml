@@ -72,42 +72,46 @@ PRODUCT_KEYWORDS_I:
 - web application
 
 PRODUCT_KEYWORDS:
-- " AEM "
+#- " AEM "
 # - Adobe AEM
 # - AdobeCQ
 # - Adobe CQ
 # - Adobe Experience Platform
 # - Adobe Experience Manager
 - Atlassian
-- Cisco
-- Citrix
+- Aruba Networks
+#- Cisco
+#- Citrix
 - Confluence
 - CrowdStrike
-- Docker
-- Fortinet Fortigate
-- Groovy
-- IBM HTTP
-- Juniper
-- Magento
-- Microsoft Exchange
-- Microsoft SQL
-- Netscaler
-- Pulse Secure
-- Python Django
-- Python Flask
-- Spring Boot
-- Spring Core
-- Spring Framework
-- Spring Security
-- SwaggerUI
-- Symantec Endpoint
-- Tomcat
-- Trend Micro
-- VMware Horizon
+#- Docker
+#- Fortinet Fortigate
+- Forcepoint
+#- Groovy
+#- IBM HTTP
+#- Juniper
+#- Magento
+#- Microsoft Exchange
+- Microsoft
+#- Microsoft SQL
+#- Netscaler
+#- Pulse Secure
+#- Python Django
+#- Python Flask
+#- Spring Boot
+#- Spring Core
+#- Spring Framework
+#- Spring Security
+#- SwaggerUI
+#- Symantec Endpoint
+#- Tomcat
+#- Trend Micro
+#- VMware Horizon
 - Fortinet
 - Palo Alto
-- Putty
+# - Putty
 - VMware
+- Zabbix
 
 # Repo's to exclude when crafting the Github CVE search URL
 GITDORK_REPO_EXCLUSIONS:
